@@ -5,12 +5,10 @@ This will be my practice to build my template readme
 {project title} is a .
 
 ## Built With
-
-- [Node JS](https://nodejs.org/en/)
-- [Express JS](https://expressjs.com/)
 - [Mongodb](https://www.mongodb.com/)
+- [Express JS](https://expressjs.com/)
 - [React Native](https://facebook.github.io/react-native/)
-
+- [Node JS](https://nodejs.org/en/)
 
 ## Installation
 
@@ -18,7 +16,7 @@ if you dont have the project already, from your terminal:
 ```bash
 git clone {projectURL}
 ```
-This Command  will copy a full  project  to your local  environment
+>This Command  will copy a full  project  to your local  environment
 
 Install the node modules with: 
 ```bash
@@ -49,7 +47,7 @@ npm install.
 <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/liambrewster/literate-eureka">
 add some badges in for the project - use https://shields.io/
 
-##Images
+## Images
 add screenshots & GIf to give some information about the project
 
 ## Support
@@ -57,6 +55,10 @@ Tell people where they can go to for help. It can be any combination of an issue
 
 ## Roadmap
 If you have ideas for releases in the future,
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ## Contributing
 Pull requests are welcome. if you are unsure, please open an issue first to discuss what you would like to change.
