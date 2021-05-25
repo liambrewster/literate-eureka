@@ -49,6 +49,9 @@ npm install.
 <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/liambrewster/literate-eureka">
 add some badges in for the project - use https://shields.io/
 
+##Images
+add screenshots & GIf to give some information about the project
+
 ## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
