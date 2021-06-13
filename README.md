@@ -52,6 +52,7 @@ add some badges in for the project - use https://shields.io/
 ## Images
 add screenshots & GIf to give some information about the project
 
+
 ## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
@@ -63,7 +64,9 @@ If you have ideas for releases in the future,
 - [ ] this is an incomplete item
 
 ## Contributing
-Pull requests are welcome. if you are unsure, please open an issue first to discuss what you would like to change.
+All Contributions are welcome. if you are unsure, please open an issue first to discuss what you would like to change and we can go through it.
+
+[check out our contributions page for help](https://github.com/liambrewster/literate-eureka/blob/master/contributing.md)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
